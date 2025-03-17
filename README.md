@@ -126,16 +126,25 @@ This project demonstrates **advanced decision analytics** using **LP, DEA, and P
 ---
 
 ## **📂 Project Files & Resources**  
-📌 **Excel Solver Models** – [Transportation, DEA, PERT Analysis]  
-📌 **PERT/CPM Network Diagram** – [Audit Project Visualization] 
+📌 **Excel Solver Models** – 
+
+<img width="384" alt="image" src="https://github.com/user-attachments/assets/78385b38-6a75-4a0a-9195-9e4506b5e3b6" />
+DEA model formulation using solver
+
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/b90e9b90-c65b-478a-99cb-59910a4ca1e9" />
+DEA model formulation using solver for Hospital E
+
+📌 **PERT/CPM Network Diagram** –
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/2c4a9691-850b-4094-b648-8732940b5c02" />
+PERT Diagram using AON (Orange Activities represent the Critical Path)
 
 
+📌 **Gantt Chart for Project Management** - 
 
-📌 **Gantt Chart for Project Management**  
-📌 **Full Report (PDF/DOCX)**  
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/1cd415e9-9607-4ee1-9231-dd775afdd8f6" />
 
+📌 **Full Report (PDF/DOCX)** - 
 ---
 
 ## **💡 Future Enhancements**  
