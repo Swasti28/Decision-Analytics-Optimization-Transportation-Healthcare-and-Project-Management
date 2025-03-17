@@ -148,7 +148,7 @@ PERT Diagram using AON (Orange Activities represent the Critical Path)
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/1cd415e9-9607-4ee1-9231-dd775afdd8f6" />
 
-📌 **Full Report (PDF/DOCX)** - 
+📌 **Full Report (PDF/DOCX)** - 📄 [Project Report - Word File](https://github.com/Swasti28/Decision-Analytics-Optimization-Transportation-Healthcare-and-Project-Management/blob/main/Group%20Software%20Application%20Project%20-%20Group%20C.docx)
 ---
 
 ## **💡 Future Enhancements**  
