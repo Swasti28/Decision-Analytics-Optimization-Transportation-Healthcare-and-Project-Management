@@ -1,6 +1,6 @@
 # **Decision Analytics & Optimization: Transportation, Healthcare, and Project Management**  
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Decision+Analytics+%26+Optimization+Project)  
+![Project Banner](https://github.com/Swasti28/Decision-Analytics-Optimization-Transportation-Healthcare-and-Project-Management/blob/main/DALL%C2%B7E%202025-03-17%2015.22.20%20-%20A%20professional%20project%20banner%20for%20'Decision%20Analytics%20%26%20Optimization'.%20The%20banner%20should%20include%20keywords%20like%20'Linear%20Programming%20(LP)'%2C%20'Data%20Envelo.webp)  
 
 ## **📌 Overview**  
 This project applies **Decision Analysis Modeling** techniques using **Linear Programming (LP), Data Envelopment Analysis (DEA), and Project Management methodologies** to solve real-world business and operational challenges. The project covers:  
